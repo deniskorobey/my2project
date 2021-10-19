@@ -1,0 +1,26 @@
+{
+  "name": "my2project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniskorobey/my2project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deniskorobey/my2project/issues"
+  },
+  "homepage": "https://github.com/deniskorobey/my2project#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.4.0",
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.1"
+  }
+}
